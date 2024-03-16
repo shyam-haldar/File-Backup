@@ -9,7 +9,7 @@ Usage: file_backup.py [-h|--help] | [(-f File_Name)|(--file=File_Name)] [(-b Bac
 
 Required Arguments:
     -f, --file         Path to the file that is to be backed up
-    -b, --backdir      Move the Directory to the specified path after compressing
+    -b, --backdir      Backup directory
 
 For Help:
     -h, --help         Displays the Command Help Message
